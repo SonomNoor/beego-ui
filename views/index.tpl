@@ -7,33 +7,33 @@
 <body>
 <div class="container">
 <div class="mb-4">
-  <label for="exampleFormControlInput1" class="form-label">First Name</label>
-  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name.com">
+  <label for="first_name" class="form-label">First Name</label>
+  <input type="email" class="form-control" id="first_name" name="first_name" placeholder="name.com">
 </div>
 <div class="mb-4">
   <label for="exampleFormControlInput1" class="form-label">Email address</label>
   <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
 </div>
 <div class="mb-4">
-  <label for="exampleFormControlInput1" class="form-label">Last Name</label>
-  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name">
+  <label for="last_name" class="form-label">Last Name</label>
+  <input type="email" class="form-control" id="last_name" name="last_name" placeholder="name">
 </div>
 <div class="mb-4">
-  <label for="exampleFormControlInput1" class="form-label">Email</label>
-  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+  <label for="email" class="form-label">Email</label>
+  <input type="email" class="form-control" id="email" name ="email" placeholder="name@example.com">
 </div>
 <div class="mb-4">
-  <label for="exampleFormControlInput1" class="form-label">Phone</label>
-  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Phone">
+  <label for="phone" class="form-label">Phone</label>
+  <input type="email" class="form-control" id="phone" name="phone" placeholder="Phone">
 </div>
 <div class="mb-4">
-  <label for="exampleFormControlInput1" class="form-label">Password</label>
-  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Password">
+  <label for="Password" class="form-label">Password</label>
+  <input type="email" class="form-control" id="Password" name="Password" placeholder="Password">
 </div>
 <div class="mb-4">
-  <label for="exampleFormControlInput1" class="form-label">Birthday
+  <label for="birthday" class="form-label">Birthday
   </label>
-  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Date Of  birth">
+  <input type="email" class="form-control" id="birthday" name ="birthday" placeholder="Date Of  birth">
 </div>
 </div>
 </body>
