@@ -8,7 +8,7 @@
 <div class="container">
 <div class="mb-4">
   <label for="exampleFormControlInput1" class="form-label">First Name</label>
-  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name.com">
 </div>
 <div class="mb-4">
   <label for="exampleFormControlInput1" class="form-label">Email address</label>
@@ -16,7 +16,7 @@
 </div>
 <div class="mb-4">
   <label for="exampleFormControlInput1" class="form-label">Last Name</label>
-  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name">
 </div>
 <div class="mb-4">
   <label for="exampleFormControlInput1" class="form-label">Email</label>
@@ -24,15 +24,16 @@
 </div>
 <div class="mb-4">
   <label for="exampleFormControlInput1" class="form-label">Phone</label>
-  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Phone">
 </div>
 <div class="mb-4">
   <label for="exampleFormControlInput1" class="form-label">Password</label>
-  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Password">
 </div>
 <div class="mb-4">
-  <label for="exampleFormControlInput1" class="form-label">Birthday</label>
-  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+  <label for="exampleFormControlInput1" class="form-label">Birthday
+  </label>
+  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Date Of  birth">
 </div>
 </div>
 </body>
